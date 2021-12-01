@@ -1,0 +1,45 @@
+<ModInfo>
+  <ClothInfo>
+    <Name>Garion Fan</Name>
+    <Default>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="0" pivot_y="-400" />
+      <Head head_x="9.450002" head_y="395.95" rotation="2.53001" head_enable="True" />
+    </Default>
+    <Guard>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="0" pivot_y="-400" />
+      <Head head_x="75.59997" head_y="366.25" rotation="12.65006" head_enable="True" />
+    </Guard>
+    <Evade>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="0" pivot_y="-400" />
+      <Head head_x="129.6" head_y="358.15" rotation="-1.68667" head_enable="True" />
+    </Evade>
+    <Damaged>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="0" pivot_y="-400" />
+      <Head head_x="43.19999" head_y="367.6" rotation="5.060009" head_enable="True" />
+    </Damaged>
+    <Slash>
+      <Direction>Side</Direction>
+      <Pivot pivot_x="0" pivot_y="-400" />
+      <Head head_x="-1.350001" head_y="358.15" rotation="0" head_enable="True" />
+    </Slash>
+    <Penetrate>
+      <Direction>Side</Direction>
+      <Pivot pivot_x="0" pivot_y="-400" />
+      <Head head_x="1.35" head_y="310.9" rotation="-0.8433509" head_enable="True" />
+    </Penetrate>
+    <Hit>
+      <Direction>Side</Direction>
+      <Pivot pivot_x="0" pivot_y="-400" />
+      <Head head_x="4.05" head_y="350.05" rotation="0" head_enable="True" />
+    </Hit>
+    <Move>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="0" pivot_y="-400" />
+      <Head head_x="-80.99997" head_y="323.05" rotation="9.27671" head_enable="True" />
+    </Move>
+  </ClothInfo>
+</ModInfo>

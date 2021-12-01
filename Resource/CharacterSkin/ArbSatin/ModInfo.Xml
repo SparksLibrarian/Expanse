@@ -1,0 +1,45 @@
+<ModInfo>
+  <ClothInfo>
+    <Name>Book of Arbiter</Name>
+    <Default>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="8.1" pivot_y="-400" />
+      <Head head_x="-8.1" head_y="400" rotation="0" head_enable="True" />
+    </Default>
+    <Guard>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="58.05" pivot_y="-400" />
+      <Head head_x="-59.4" head_y="400" rotation="4.799995" head_enable="True" />
+    </Guard>
+    <Evade>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="4.049997" pivot_y="-372.9998" />
+      <Head head_x="2.861023E-06" head_y="375.6998" rotation="4.799995" head_enable="True" />
+    </Evade>
+    <Damaged>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="20.25001" pivot_y="-393.25" />
+      <Head head_x="-40.50001" head_y="367.6" rotation="11.4" head_enable="True" />
+    </Damaged>
+    <Slash>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="55.35" pivot_y="-401.35" />
+      <Head head_x="-59.4" head_y="391.9" rotation="4.199996" head_enable="True" />
+    </Slash>
+    <Penetrate>
+      <Direction>Side</Direction>
+      <Pivot pivot_x="31.05" pivot_y="-400" />
+      <Head head_x="-31.05" head_y="397.3" rotation="2.999997" head_enable="True" />
+    </Penetrate>
+    <Hit>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="4.05" pivot_y="-390.55" />
+      <Head head_x="-5.4" head_y="390.55" rotation="0" head_enable="True" />
+    </Hit>
+    <Move>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="90.45" pivot_y="-391.9" />
+      <Head head_x="-110.7" head_y="354.1" rotation="7.199993" head_enable="True" />
+    </Move>
+  </ClothInfo>
+</ModInfo>

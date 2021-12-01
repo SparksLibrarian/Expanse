@@ -1,0 +1,55 @@
+<ModInfo>
+  <ClothInfo>
+    <Name>Bloodfiend Servant</Name>
+    <Default>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="13.8" pivot_y="-275.8001" />
+      <Head head_x="0" head_y="434.7" rotation="0" head_enable="True" />
+    </Default>
+    <Guard>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="-48.3" pivot_y="-271.2001" />
+      <Head head_x="-20.7" head_y="372.6" rotation="7" head_enable="True" />
+    </Guard>
+    <Evade>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="0" pivot_y="-271.2001" />
+      <Head head_x="23" head_y="386.4" rotation="10.51428" head_enable="True" />
+    </Evade>
+    <Damaged>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="0" pivot_y="-266.6002" />
+      <Head head_x="16.1" head_y="388.7" rotation="7.08571" head_enable="True" />
+    </Damaged>
+    <Slash>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="-39.09999" pivot_y="-271.2001" />
+      <Head head_x="-82.79999" head_y="354.2" rotation="10.51428" head_enable="True" />
+    </Slash>
+    <Penetrate>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="-20.7" pivot_y="-266.6003" />
+      <Head head_x="-89.7" head_y="340.4" rotation="9.371413" head_enable="True" />
+    </Penetrate>
+    <Hit>
+      <Direction>Side</Direction>
+      <Pivot pivot_x="-39.09999" pivot_y="-273.5" />
+      <Head head_x="-75.89999" head_y="340.4" rotation="0" head_enable="True" />
+    </Hit>
+    <Move>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="0" pivot_y="-266.6" />
+      <Head head_x="-131.1" head_y="368" rotation="7.999989" head_enable="True" />
+    </Move>
+    <Fire>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="64.39999" pivot_y="-268.9001" />
+      <Head head_x="-18.39999" head_y="427.7999" rotation="0" head_enable="True" />
+    </Fire>
+    <Aim>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="62.1" pivot_y="-268.9" />
+      <Head head_x="-4.599998" head_y="430.0999" rotation="0" head_enable="True" />
+    </Aim>
+  </ClothInfo>
+</ModInfo>

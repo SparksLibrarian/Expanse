@@ -1,0 +1,45 @@
+<ModInfo>
+  <ClothInfo>
+    <Name>Sunshine Drip</Name>
+    <Default>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="-64.8" pivot_y="-238" />
+      <Head head_x="-10.79999" head_y="300.1" rotation="5.060009" head_enable="True" />
+    </Default>
+    <Guard>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="-340.2" pivot_y="-502.6003" />
+      <Head head_x="3.051758E-05" head_y="327.1002" rotation="3.37335" head_enable="True" />
+    </Guard>
+    <Evade>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="-40.5" pivot_y="-235.3" />
+      <Head head_x="16.2" head_y="329.8" rotation="0" head_enable="True" />
+    </Evade>
+    <Damaged>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="-278.1" pivot_y="-505.3001" />
+      <Head head_x="-2.700134" head_y="335.2001" rotation="3.37335" head_enable="True" />
+    </Damaged>
+    <Slash>
+      <Direction>Side</Direction>
+      <Pivot pivot_x="-418.5001" pivot_y="-313.5999" />
+      <Head head_x="-67.5" head_y="300.0999" rotation="0" head_enable="True" />
+    </Slash>
+    <Penetrate>
+      <Direction>Side</Direction>
+      <Pivot pivot_x="-21.6" pivot_y="-221.8" />
+      <Head head_x="-72.9" head_y="302.8" rotation="1.686702" head_enable="True" />
+    </Penetrate>
+    <Hit>
+      <Direction>Side</Direction>
+      <Pivot pivot_x="-40.5" pivot_y="-224.5" />
+      <Head head_x="-51.29999" head_y="305.5" rotation="0" head_enable="True" />
+    </Hit>
+    <Move>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="-361.8" pivot_y="-499.9001" />
+      <Head head_x="-62.10007" head_y="300.1002" rotation="0" head_enable="True" />
+    </Move>
+  </ClothInfo>
+</ModInfo>

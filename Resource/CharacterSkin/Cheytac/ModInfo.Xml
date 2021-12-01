@@ -1,0 +1,55 @@
+<ModInfo>
+  <ClothInfo>
+    <Name>William</Name>
+    <Default>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="255.3" pivot_y="-411.4999" />
+      <Head head_x="0" head_y="0" rotation="0" head_enable="False" />
+    </Default>
+    <Guard>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="-140.2999" pivot_y="-423" />
+      <Head head_x="0" head_y="0" rotation="0" head_enable="False" />
+    </Guard>
+    <Evade>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="138" pivot_y="-190.7" />
+      <Head head_x="0" head_y="0" rotation="0" head_enable="False" />
+    </Evade>
+    <Damaged>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="-128.8" pivot_y="-406.9" />
+      <Head head_x="0" head_y="0" rotation="0" head_enable="False" />
+    </Damaged>
+    <Slash>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="186.3" pivot_y="-179.2" />
+      <Head head_x="0" head_y="0" rotation="0" head_enable="False" />
+    </Slash>
+    <Penetrate>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="188.5999" pivot_y="-181.5" />
+      <Head head_x="0" head_y="0" rotation="0" head_enable="False" />
+    </Penetrate>
+    <Hit>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="184" pivot_y="-183.8" />
+      <Head head_x="0" head_y="0" rotation="0" head_enable="False" />
+    </Hit>
+    <Move>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="-110.4" pivot_y="-404.6" />
+      <Head head_x="0" head_y="0" rotation="0" head_enable="False" />
+    </Move>
+    <Aim>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="259.9001" pivot_y="-409.2" />
+      <Head head_x="0" head_y="0" rotation="0" head_enable="False" />
+    </Aim>
+    <Fire>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="128.8" pivot_y="-181.5" />
+      <Head head_x="0" head_y="0" rotation="0" head_enable="False" />
+    </Fire>
+  </ClothInfo>
+</ModInfo>

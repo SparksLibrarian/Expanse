@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BookUseXmlRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Version>1.1</Version>
+  <BookUse ID="1">
+    <Name>Book of William</Name>
+    <TextId />
+    <BookIcon />
+    <Chapter>6</Chapter>
+    <BookValue>0</BookValue>
+    <DropItem Type="Equip">10000001</DropItem>
+    <DropItem Type="Equip">10000008</DropItem>
+  </BookUse>
+  <BookUse ID="2">
+    <Name>Book of Nicholas</Name>
+    <TextId />
+    <BookIcon />
+    <Chapter>6</Chapter>
+    <BookValue>0</BookValue>
+    <DropItem Type="Equip">10000002</DropItem>
+    <DropItem Type="Equip">10000009</DropItem>
+  </BookUse>
+  <BookUse ID="3">
+    <Name>Book of a Bloodfiend's Servant</Name>
+    <TextId />
+    <BookIcon />
+    <Chapter>6</Chapter>
+    <BookValue>0</BookValue>
+    <DropItem Type="Equip">10000003</DropItem>
+  </BookUse>
+  <BookUse ID="4">
+    <Name>Book of the Hazel Eyes</Name>
+    <TextId />
+    <BookIcon />
+    <Chapter>6</Chapter>
+    <BookValue>0</BookValue>
+    <DropItem Type="Equip">10000004</DropItem>
+    <DropItem Type="Equip">10000011</DropItem>
+  </BookUse>
+  <BookUse ID="5">
+    <Name>Book of Oakley</Name>
+    <TextId />
+    <BookIcon />
+    <Chapter>6</Chapter>
+    <BookValue>0</BookValue>
+    <DropItem Type="Equip">10000005</DropItem>
+    <DropItem Type="Equip">10000010</DropItem>
+  </BookUse>
+  <BookUse ID="6">
+    <Name>Book of an NRG Fixer</Name>
+    <TextId />
+    <BookIcon />
+    <Chapter>6</Chapter>
+    <BookValue>0</BookValue>
+    <DropItem Type="Equip">10000006</DropItem>
+  </BookUse>
+  <BookUse ID="7">
+    <Name>Book of Adrian</Name>
+    <TextId />
+    <BookIcon />
+    <Chapter>6</Chapter>
+    <BookValue>0</BookValue>
+    <DropItem Type="Equip">10000007</DropItem>
+    <DropItem Type="Equip">10000012</DropItem>
+  </BookUse>
+  <BookUse ID="8">
+    <Name>Incomplete Book of Arbitration</Name>
+    <TextId />
+    <BookIcon />
+    <Chapter>7</Chapter>
+    <BookValue>0</BookValue>
+  </BookUse>
+  <BookUse ID="9">
+    <Name>Book of Satin</Name>
+    <TextId />
+    <BookIcon />
+    <Chapter>7</Chapter>
+    <BookValue>0</BookValue>
+    <DropItem Type="Equip">10000013</DropItem>
+  </BookUse>
+  <BookUse ID="10">
+    <Name>Incomplete Book of Smoke</Name>
+    <TextId />
+    <BookIcon />
+    <Chapter>6</Chapter>
+    <BookValue>0</BookValue>
+    <DropItem Type="Equip">10000014</DropItem>
+  </BookUse>
+  <BookUse ID="11">
+    <Name>Incomplete Book of Orchestration</Name>
+    <TextId />
+    <BookIcon />
+    <Chapter>6</Chapter>
+    <BookValue>0</BookValue>
+    <DropItem Type="Equip">10000014</DropItem>
+  </BookUse>
+  <BookUse ID="12">
+    <Name>Book of Sunshine!</Name>
+    <TextId />
+    <BookIcon />
+    <Chapter>6</Chapter>
+    <BookValue>0</BookValue>
+    <DropItem Type="Equip">10000015</DropItem>
+    <DropItem Type="Equip">10000016</DropItem>
+    <DropItem Type="Equip">10000020</DropItem>
+  </BookUse>
+  <BookUse ID="13">
+    <Name>Book of a Lost Lamb</Name>
+    <TextId />
+    <BookIcon />
+    <Chapter>6</Chapter>
+    <BookValue>0</BookValue>
+    <DropItem Type="Equip">10000017</DropItem>
+  </BookUse>
+  <BookUse ID="14">
+    <Name>Book of a Marble Corps Fixer</Name>
+    <TextId />
+    <BookIcon />
+    <Chapter>6</Chapter>
+    <BookValue>0</BookValue>
+    <DropItem Type="Equip">10000018</DropItem>
+    <DropItem Type="Equip">10000019</DropItem>
+  </BookUse>
+</BookUseXmlRoot>

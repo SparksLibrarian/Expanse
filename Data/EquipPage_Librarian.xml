@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BookXmlRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Version>1.1</Version>
+  <Book ID="10000001">
+    <Name>William Cheytac's Page</Name>
+    <TextId>-1</TextId>
+    <BookIcon />
+    <EquipEffect>
+      <HpReduction>0</HpReduction>
+      <HP>105</HP>
+      <DeadLine>0</DeadLine>
+      <Break>71</Break>
+      <SpeedMin>3</SpeedMin>
+      <Speed>8</Speed>
+      <SpeedDiceNum>0</SpeedDiceNum>
+      <SResist>Normal</SResist>
+      <PResist>Endure</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Vulnerable</SBResist>
+      <PBResist>Resist</PBResist>
+      <HBResist>Endure</HBResist>
+      <MaxPlayPoint>4</MaxPlayPoint>
+      <StartPlayPoint>4</StartPlayPoint>
+      <AddedStartDraw>0</AddedStartDraw>
+      <Passive>8</Passive>
+      <Passive>13</Passive>
+      <Passive Pid="@origin">230024</Passive>
+      <Passive Pid="@origin">230018</Passive>
+      <Passive Pid="@origin">250001</Passive>
+      <Passive Pid="@origin">251201</Passive>
+    </EquipEffect>
+    <Rarity>Unique</Rarity>
+    <CharacterSkin>Cheytac</CharacterSkin>
+    <CharacterSkinType>Custom</CharacterSkinType>
+    <SkinGender>N</SkinGender>
+    <Chapter>6</Chapter>
+    <Episode>-1</Episode>
+    <RangeType>Hybrid</RangeType>
+    <NotEquip>false</NotEquip>
+    <RandomFace>false</RandomFace>
+    <SpeedDiceNum>1</SpeedDiceNum>
+    <SuccessionPossibleNumber>9</SuccessionPossibleNumber>
+    <SoundInfo Motion="H" WinExternal="false" Win="Wedge_Hori" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="J" WinExternal="false" Win="Wedge_Vert" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="Z" WinExternal="false" Win="Wedge_Stab" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="G" WinExternal="false" Win="Purple_Guard" LoseExternal="false" Lose="Defense_Guard" />
+    <SoundInfo Motion="E" WinExternal="false" Win="Roland_Evasion" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="F" WinExternal="false" Win="Thumb_Kalo_Gun" LoseExternal="false" Lose="" />
+  </Book>
+  <Book ID="10000002">
+    <Name>Nicholas's Page</Name>
+    <TextId>-1</TextId>
+    <BookIcon />
+    <EquipEffect>
+      <HpReduction>0</HpReduction>
+      <HP>81</HP>
+      <DeadLine>0</DeadLine>
+      <Break>64</Break>
+      <SpeedMin>3</SpeedMin>
+      <Speed>6</Speed>
+      <SpeedDiceNum>0</SpeedDiceNum>
+      <SResist>Endure</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Endure</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Endure</PBResist>
+      <HBResist>Vulnerable</HBResist>
+      <MaxPlayPoint>4</MaxPlayPoint>
+      <StartPlayPoint>4</StartPlayPoint>
+      <AddedStartDraw>0</AddedStartDraw>
+      <Passive>8</Passive>
+      <Passive Pid="@origin">260013</Passive>
+      <Passive Pid="@origin">243005</Passive>
+      <Passive Pid="@origin">230019</Passive>
+      <Passive Pid="@origin">243205</Passive>
+    </EquipEffect>
+    <Rarity>Unique</Rarity>
+    <CharacterSkin>Nicholas</CharacterSkin>
+    <CharacterSkinType>Custom</CharacterSkinType>
+    <SkinGender>N</SkinGender>
+    <Chapter>6</Chapter>
+    <Episode>-1</Episode>
+    <RangeType>Hybrid</RangeType>
+    <NotEquip>false</NotEquip>
+    <RandomFace>false</RandomFace>
+    <SpeedDiceNum>1</SpeedDiceNum>
+    <SuccessionPossibleNumber>9</SuccessionPossibleNumber>
+    <SoundInfo Motion="H" WinExternal="false" Win="RabbitTeam_Hori" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="J" WinExternal="false" Win="RabbitTeam_Vert" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="Z" WinExternal="false" Win="RabbitTeam_Stab" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="G" WinExternal="false" Win="Defense_Guard_Win" LoseExternal="false" Lose="Defense_Guard" />
+    <SoundInfo Motion="E" WinExternal="false" Win="Defense_Evasion" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="F" WinExternal="false" Win="RabbitTeam_Shot" LoseExternal="false" Lose="" />
+  </Book>
+  <Book ID="10000003">
+    <Name>A Bloodfiend Servant's Page</Name>
+    <TextId>-1</TextId>
+    <BookIcon />
+    <EquipEffect>
+      <HpReduction>0</HpReduction>
+      <HP>97</HP>
+      <DeadLine>0</DeadLine>
+      <Break>49</Break>
+      <SpeedMin>3</SpeedMin>
+      <Speed>6</Speed>
+      <SpeedDiceNum>0</SpeedDiceNum>
+      <SResist>Endure</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Vulnerable</SBResist>
+      <PBResist>Normal</PBResist>
+      <HBResist>Endure</HBResist>
+      <MaxPlayPoint>3</MaxPlayPoint>
+      <StartPlayPoint>3</StartPlayPoint>
+      <AddedStartDraw>0</AddedStartDraw>
+      <Passive Pid="@origin">10001</Passive>
+      <Passive Pid="@origin">243205</Passive>
+      <Passive Pid="@origin">231001</Passive>
+      <Passive Pid="@origin">232002</Passive>
+      <Passive Pid="@origin">240015</Passive>
+      <Passive Pid="@origin">240016</Passive>
+    </EquipEffect>
+    <Rarity>Rare</Rarity>
+    <CharacterSkin>NicholasGoon</CharacterSkin>
+    <CharacterSkinType>Custom</CharacterSkinType>
+    <SkinGender>N</SkinGender>
+    <Chapter>6</Chapter>
+    <Episode>-1</Episode>
+    <RangeType>Hybrid</RangeType>
+    <NotEquip>false</NotEquip>
+    <RandomFace>false</RandomFace>
+    <SpeedDiceNum>1</SpeedDiceNum>
+    <SuccessionPossibleNumber>9</SuccessionPossibleNumber>
+    <SoundInfo Motion="H" WinExternal="false" Win="RabbitTeam_Hori" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="J" WinExternal="false" Win="RabbitTeam_Vert" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="Z" WinExternal="false" Win="RabbitTeam_Stab" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="G" WinExternal="false" Win="Defense_Guard_Win" LoseExternal="false" Lose="Defense_Guard" />
+    <SoundInfo Motion="E" WinExternal="false" Win="Defense_Evasion" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="F" WinExternal="false" Win="Roland_Revolver" LoseExternal="false" Lose="" />
+  </Book>
+  <Book ID="10000004">
+    <Name>The Hazel Eyes' Page</Name>
+    <TextId>-1</TextId>
+    <BookIcon />
+    <EquipEffect>
+      <HpReduction>0</HpReduction>
+      <HP>110</HP>
+      <DeadLine>0</DeadLine>
+      <Break>55</Break>
+      <SpeedMin>3</SpeedMin>
+      <Speed>7</Speed>
+      <SpeedDiceNum>0</SpeedDiceNum>
+      <SResist>Normal</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Normal</PBResist>
+      <HBResist>Normal</HBResist>
+      <MaxPlayPoint>4</MaxPlayPoint>
+      <StartPlayPoint>4</StartPlayPoint>
+      <AddedStartDraw>0</AddedStartDraw>
+      <Passive>8</Passive>
+      <Passive>4</Passive>
+      <Passive Pid="@origin">250222</Passive>
+      <Passive Pid="@origin">250002</Passive>
+      <Passive Pid="@origin">240308</Passive>
+    </EquipEffect>
+    <Rarity>Unique</Rarity>
+    <CharacterSkin>Hazel</CharacterSkin>
+    <CharacterSkinType>Custom</CharacterSkinType>
+    <SkinGender>N</SkinGender>
+    <Chapter>6</Chapter>
+    <Episode>-1</Episode>
+    <RangeType>Melee</RangeType>
+    <NotEquip>false</NotEquip>
+    <RandomFace>false</RandomFace>
+    <SpeedDiceNum>1</SpeedDiceNum>
+    <SuccessionPossibleNumber>9</SuccessionPossibleNumber>
+    <SoundInfo Motion="H" WinExternal="false" Win="Hana_Blow" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="J" WinExternal="false" Win="Hana_Slash" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="Z" WinExternal="false" Win="Hana_Stab" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="G" WinExternal="false" Win="Hana_Guard" LoseExternal="false" Lose="Defense_Guard" />
+    <SoundInfo Motion="E" WinExternal="false" Win="Roland_Evasion" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="F" WinExternal="false" Win="Hana_Slash" LoseExternal="false" Lose="" />
+  </Book>
+  <Book ID="10000005">
+    <Name>Oakley's Page</Name>
+    <TextId>-1</TextId>
+    <BookIcon />
+    <EquipEffect>
+      <HpReduction>0</HpReduction>
+      <HP>102</HP>
+      <DeadLine>0</DeadLine>
+      <Break>49</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>9</Speed>
+      <SpeedDiceNum>0</SpeedDiceNum>
+      <SResist>Endure</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Endure</PBResist>
+      <HBResist>Normal</HBResist>
+      <MaxPlayPoint>4</MaxPlayPoint>
+      <StartPlayPoint>4</StartPlayPoint>
+      <AddedStartDraw>0</AddedStartDraw>
+      <Passive>8</Passive>
+      <Passive Pid="@origin">250123</Passive>
+      <Passive Pid="@origin">250023</Passive>
+      <Passive Pid="@origin">250110</Passive>
+      <Passive Pid="@origin">250210</Passive>
+      <Passive Pid="@origin">240019</Passive>
+    </EquipEffect>
+    <Rarity>Unique</Rarity>
+    <CharacterSkin>ChargerOperator</CharacterSkin>
+    <CharacterSkinType>Custom</CharacterSkinType>
+    <SkinGender>N</SkinGender>
+    <Chapter>6</Chapter>
+    <Episode>-1</Episode>
+    <RangeType>Melee</RangeType>
+    <NotEquip>false</NotEquip>
+    <RandomFace>false</RandomFace>
+    <SpeedDiceNum>1</SpeedDiceNum>
+    <SuccessionPossibleNumber>9</SuccessionPossibleNumber>
+  </Book>
+  <Book ID="10000006">
+    <Name>An NRG Office Fixer's Page</Name>
+    <TextId>-1</TextId>
+    <BookIcon />
+    <EquipEffect>
+      <HpReduction>0</HpReduction>
+      <HP>99</HP>
+      <DeadLine>0</DeadLine>
+      <Break>58</Break>
+      <SpeedMin>4</SpeedMin>
+      <Speed>5</Speed>
+      <SpeedDiceNum>0</SpeedDiceNum>
+      <SResist>Normal</SResist>
+      <PResist>Endure</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Normal</PBResist>
+      <HBResist>Normal</HBResist>
+      <MaxPlayPoint>3</MaxPlayPoint>
+      <StartPlayPoint>3</StartPlayPoint>
+      <AddedStartDraw>0</AddedStartDraw>
+      <Passive Pid="@origin">10001</Passive>
+      <Passive Pid="@origin">250110</Passive>
+      <Passive Pid="@origin">250210</Passive>
+      <Passive Pid="@origin">240019</Passive>
+      <Passive Pid="@origin">240002</Passive>
+    </EquipEffect>
+    <Rarity>Rare</Rarity>
+    <CharacterSkin>ChargerPal</CharacterSkin>
+    <CharacterSkinType>Custom</CharacterSkinType>
+    <SkinGender>N</SkinGender>
+    <Chapter>6</Chapter>
+    <Episode>-1</Episode>
+    <RangeType>Melee</RangeType>
+    <NotEquip>false</NotEquip>
+    <RandomFace>false</RandomFace>
+    <SpeedDiceNum>1</SpeedDiceNum>
+    <SuccessionPossibleNumber>9</SuccessionPossibleNumber>
+    <SoundInfo Motion="H" WinExternal="false" Win="Wand_Nemo_Hori" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="J" WinExternal="false" Win="Wand_Nemo_Stab" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="Z" WinExternal="false" Win="Wand_Nemo_Vert" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="G" WinExternal="false" Win="Wand_Nemo_Guard_Win" LoseExternal="false" Lose="Wand_Nemo_Guard" />
+    <SoundInfo Motion="E" WinExternal="false" Win="Roland_Evasion" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="F" WinExternal="false" Win="Thumb_Kalo_Gun" LoseExternal="false" Lose="" />
+  </Book>
+  <Book ID="10000007">
+    <Name>Adrian's Page</Name>
+    <TextId>-1</TextId>
+    <BookIcon />
+    <EquipEffect>
+      <HpReduction>0</HpReduction>
+      <HP>109</HP>
+      <DeadLine>0</DeadLine>
+      <Break>56</Break>
+      <SpeedMin>4</SpeedMin>
+      <Speed>6</Speed>
+      <SpeedDiceNum>0</SpeedDiceNum>
+      <SResist>Normal</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Resist</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Vulnerable</PBResist>
+      <HBResist>Normal</HBResist>
+      <MaxPlayPoint>4</MaxPlayPoint>
+      <StartPlayPoint>4</StartPlayPoint>
+      <AddedStartDraw>0</AddedStartDraw>
+      <Passive Pid="@origin">10008</Passive>
+      <Passive Pid="@origin">250115</Passive>
+      <Passive Pid="@origin">250123</Passive>
+      <Passive Pid="@origin">250110</Passive>
+      <Passive Pid="@origin">250210</Passive>
+    </EquipEffect>
+    <Rarity>Unique</Rarity>
+    <CharacterSkin>Adrian 2</CharacterSkin>
+    <CharacterSkinType>Custom</CharacterSkinType>
+    <SkinGender>N</SkinGender>
+    <Chapter>6</Chapter>
+    <Episode>-1</Episode>
+    <RangeType>Melee</RangeType>
+    <NotEquip>false</NotEquip>
+    <RandomFace>false</RandomFace>
+    <SpeedDiceNum>1</SpeedDiceNum>
+    <SuccessionPossibleNumber>9</SuccessionPossibleNumber>
+  </Book>
+  <Book ID="10000008">
+    <Name>Reference Sheet of a Soloer</Name>
+    <TextId>-1</TextId>
+    <BookIcon />
+    <EquipEffect>
+      <HpReduction>0</HpReduction>
+      <HP>1</HP>
+      <DeadLine>0</DeadLine>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>1</Speed>
+      <SpeedDiceNum>0</SpeedDiceNum>
+      <SResist>Weak</SResist>
+      <PResist>Weak</PResist>
+      <HResist>Weak</HResist>
+      <SBResist>Weak</SBResist>
+      <PBResist>Weak</PBResist>
+      <HBResist>Weak</HBResist>
+      <MaxPlayPoint>0</MaxPlayPoint>
+      <StartPlayPoint>0</StartPlayPoint>
+      <AddedStartDraw>0</AddedStartDraw>
+      <Passive Pid="@origin">260011</Passive>
+      <Passive Pid="@origin">230008</Passive>
+      <Passive Pid="@origin">240015</Passive>
+      <Passive Pid="@origin">240016</Passive>
+    </EquipEffect>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>Cheytac</CharacterSkin>
+    <CharacterSkinType>Custom</CharacterSkinType>
+    <SkinGender>N</SkinGender>
+    <Chapter>6</Chapter>
+    <Episode>-1</Episode>
+    <RangeType>Hybrid</RangeType>
+    <NotEquip>false</NotEquip>
+    <RandomFace>false</RandomFace>
+    <SpeedDiceNum>1</SpeedDiceNum>
+    <SuccessionPossibleNumber>9</SuccessionPossibleNumber>
+  </Book>
+  <Book ID="10000009">
+    <Name>Reference Sheet of a Blood Fanatic</Name>
+    <TextId>-1</TextId>
+    <BookIcon />
+    <EquipEffect>
+      <HpReduction>0</HpReduction>
+      <HP>1</HP>
+      <DeadLine>0</DeadLine>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>1</Speed>
+      <SpeedDiceNum>0</SpeedDiceNum>
+      <SResist>Weak</SResist>
+      <PResist>Weak</PResist>
+      <HResist>Weak</HResist>
+      <SBResist>Weak</SBResist>
+      <PBResist>Weak</PBResist>
+      <HBResist>Weak</HBResist>
+      <MaxPlayPoint>0</MaxPlayPoint>
+      <StartPlayPoint>0</StartPlayPoint>
+      <AddedStartDraw>0</AddedStartDraw>
+      <Passive Pid="@origin">230019</Passive>
+      <Passive Pid="@origin">240015</Passive>
+      <Passive Pid="@origin">240016</Passive>
+      <Passive Pid="@origin">243005</Passive>
+      <Passive Pid="@origin">243205</Passive>
+      <Passive Pid="@origin">260013</Passive>
+    </EquipEffect>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>NicholasGoon</CharacterSkin>
+    <CharacterSkinType>Custom</CharacterSkinType>
+    <SkinGender>N</SkinGender>
+    <Chapter>6</Chapter>
+    <Episode>-1</Episode>
+    <RangeType>Melee</RangeType>
+    <NotEquip>false</NotEquip>
+    <RandomFace>false</RandomFace>
+    <SpeedDiceNum>1</SpeedDiceNum>
+    <SuccessionPossibleNumber>9</SuccessionPossibleNumber>
+  </Book>
+  <Book ID="10000010">
+    <Name>Reference Sheet of a Charge Nerd</Name>
+    <TextId>-1</TextId>
+    <BookIcon />
+    <EquipEffect>
+      <HpReduction>0</HpReduction>
+      <HP>1</HP>
+      <DeadLine>0</DeadLine>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>1</Speed>
+      <SpeedDiceNum>0</SpeedDiceNum>
+      <SResist>Weak</SResist>
+      <PResist>Weak</PResist>
+      <HResist>Weak</HResist>
+      <SBResist>Weak</SBResist>
+      <PBResist>Weak</PBResist>
+      <HBResist>Weak</HBResist>
+      <MaxPlayPoint>0</MaxPlayPoint>
+      <StartPlayPoint>0</StartPlayPoint>
+      <AddedStartDraw>0</AddedStartDraw>
+      <Passive Pid="@origin">250010</Passive>
+      <Passive Pid="@origin">250110</Passive>
+      <Passive Pid="@origin">250210</Passive>
+      <Passive Pid="@origin">250123</Passive>
+      <Passive Pid="@origin">250023</Passive>
+      <Passive Pid="@origin">251101</Passive>
+      <Passive Pid="@origin">251102</Passive>
+      <Passive Pid="@origin">251103</Passive>
+      <Passive Pid="@origin">250025</Passive>
+    </EquipEffect>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>ChargerOperator</CharacterSkin>
+    <CharacterSkinType>Custom</CharacterSkinType>
+    <SkinGender>N</SkinGender>
+    <Chapter>6</Chapter>
+    <Episode>-1</Episode>
+    <RangeType>Melee</RangeType>
+    <NotEquip>false</NotEquip>
+    <RandomFace>false</RandomFace>
+    <SpeedDiceNum>1</SpeedDiceNum>
+    <SuccessionPossibleNumber>9</SuccessionPossibleNumber>
+  </Book>
+  <Book ID="10000011">
+    <Name>Reference Sheet of a Warrior</Name>
+    <TextId>-1</TextId>
+    <BookIcon />
+    <EquipEffect>
+      <HpReduction>0</HpReduction>
+      <HP>1</HP>
+      <DeadLine>0</DeadLine>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>1</Speed>
+      <SpeedDiceNum>0</SpeedDiceNum>
+      <SResist>Weak</SResist>
+      <PResist>Weak</PResist>
+      <HResist>Weak</HResist>
+      <SBResist>Weak</SBResist>
+      <PBResist>Weak</PBResist>
+      <HBResist>Weak</HBResist>
+      <MaxPlayPoint>0</MaxPlayPoint>
+      <StartPlayPoint>0</StartPlayPoint>
+      <AddedStartDraw>0</AddedStartDraw>
+      <Passive>6</Passive>
+      <Passive Pid="@origin">220004</Passive>
+      <Passive Pid="@origin">230118</Passive>
+      <Passive Pid="@origin">230124</Passive>
+      <Passive Pid="@origin">240308</Passive>
+      <Passive Pid="@origin">240408</Passive>
+      <Passive Pid="@origin">250002</Passive>
+      <Passive Pid="@origin">250003</Passive>
+      <Passive Pid="@origin">250004</Passive>
+    </EquipEffect>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>Hazel</CharacterSkin>
+    <CharacterSkinType>Custom</CharacterSkinType>
+    <SkinGender>N</SkinGender>
+    <Chapter>6</Chapter>
+    <Episode>-1</Episode>
+    <RangeType>Melee</RangeType>
+    <NotEquip>false</NotEquip>
+    <RandomFace>false</RandomFace>
+    <SpeedDiceNum>1</SpeedDiceNum>
+    <SuccessionPossibleNumber>9</SuccessionPossibleNumber>
+  </Book>
+  <Book ID="10000012">
+    <Name>Reference Sheet of a Wanderer</Name>
+    <TextId>-1</TextId>
+    <BookIcon />
+    <EquipEffect>
+      <HpReduction>0</HpReduction>
+      <HP>1</HP>
+      <DeadLine>0</DeadLine>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>1</Speed>
+      <SpeedDiceNum>0</SpeedDiceNum>
+      <SResist>Weak</SResist>
+      <PResist>Weak</PResist>
+      <HResist>Weak</HResist>
+      <SBResist>Weak</SBResist>
+      <PBResist>Weak</PBResist>
+      <HBResist>Weak</HBResist>
+      <MaxPlayPoint>0</MaxPlayPoint>
+      <StartPlayPoint>0</StartPlayPoint>
+      <AddedStartDraw>0</AddedStartDraw>
+      <Passive Pid="@origin">230207</Passive>
+      <Passive Pid="@origin">240227</Passive>
+      <Passive Pid="@origin">250115</Passive>
+      <Passive Pid="@origin">250018</Passive>
+      <Passive Pid="@origin">250020</Passive>
+      <Passive Pid="@origin">250021</Passive>
+    </EquipEffect>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>ChargerIndex</CharacterSkin>
+    <CharacterSkinType>Custom</CharacterSkinType>
+    <SkinGender>N</SkinGender>
+    <Chapter>6</Chapter>
+    <Episode>-1</Episode>
+    <RangeType>Melee</RangeType>
+    <NotEquip>false</NotEquip>
+    <RandomFace>false</RandomFace>
+    <SpeedDiceNum>1</SpeedDiceNum>
+    <SuccessionPossibleNumber>9</SuccessionPossibleNumber>
+  </Book>
+  <Book ID="10000013">
+    <Name>Satin's Page</Name>
+    <TextId>-1</TextId>
+    <BookIcon />
+    <EquipEffect>
+      <HpReduction>0</HpReduction>
+      <HP>117</HP>
+      <DeadLine>0</DeadLine>
+      <Break>70</Break>
+      <SpeedMin>4</SpeedMin>
+      <Speed>6</Speed>
+      <SpeedDiceNum>0</SpeedDiceNum>
+      <SResist>Normal</SResist>
+      <PResist>Resist</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Endure</PBResist>
+      <HBResist>Normal</HBResist>
+      <MaxPlayPoint>5</MaxPlayPoint>
+      <StartPlayPoint>5</StartPlayPoint>
+      <AddedStartDraw>0</AddedStartDraw>
+      <Passive>8</Passive>
+      <Passive Pid="@origin">180005</Passive>
+      <Passive>4</Passive>
+      <Passive>7</Passive>
+    </EquipEffect>
+    <Rarity>Unique</Rarity>
+    <CharacterSkin>ArbSatin</CharacterSkin>
+    <CharacterSkinType>Custom</CharacterSkinType>
+    <SkinGender>N</SkinGender>
+    <Chapter>7</Chapter>
+    <Episode>-1</Episode>
+    <RangeType>Hybrid</RangeType>
+    <NotEquip>false</NotEquip>
+    <RandomFace>false</RandomFace>
+    <SpeedDiceNum>1</SpeedDiceNum>
+    <SuccessionPossibleNumber>9</SuccessionPossibleNumber>
+    <SoundInfo Motion="H" WinExternal="false" Win="Binah_Fairy" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="J" WinExternal="false" Win="Binah_Fairy" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="Z" WinExternal="false" Win="Binah_Fairy" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="G" WinExternal="false" Win="Binah_Guard" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="E" WinExternal="false" Win="Roland_Evasion" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="F" WinExternal="false" Win="Binah_Fairy" LoseExternal="false" Lose="" />
+  </Book>
+  <Book ID="10000014">
+    <Name>Reference Sheet of a Smoker</Name>
+    <TextId>-1</TextId>
+    <BookIcon />
+    <EquipEffect>
+      <HpReduction>0</HpReduction>
+      <HP>1</HP>
+      <DeadLine>0</DeadLine>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>1</Speed>
+      <SpeedDiceNum>0</SpeedDiceNum>
+      <SResist>Weak</SResist>
+      <PResist>Weak</PResist>
+      <HResist>Weak</HResist>
+      <SBResist>Weak</SBResist>
+      <PBResist>Weak</PBResist>
+      <HBResist>Weak</HBResist>
+      <MaxPlayPoint>0</MaxPlayPoint>
+      <StartPlayPoint>0</StartPlayPoint>
+      <AddedStartDraw>0</AddedStartDraw>
+      <Passive Pid="@origin">240026</Passive>
+      <Passive Pid="@origin">260007</Passive>
+      <Passive Pid="@origin">240023</Passive>
+      <Passive Pid="@origin">240024</Passive>
+      <Passive Pid="@origin">240025</Passive>
+      <Passive Pid="@origin">250014</Passive>
+      <Passive Pid="@origin">255001</Passive>
+      <Passive Pid="@origin">255002</Passive>
+    </EquipEffect>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>GearsUnit</CharacterSkin>
+    <CharacterSkinType>Lor</CharacterSkinType>
+    <SkinGender>N</SkinGender>
+    <Chapter>6</Chapter>
+    <Episode>-1</Episode>
+    <RangeType>Melee</RangeType>
+    <NotEquip>false</NotEquip>
+    <RandomFace>false</RandomFace>
+    <SpeedDiceNum>1</SpeedDiceNum>
+    <SuccessionPossibleNumber>9</SuccessionPossibleNumber>
+  </Book>
+  <Book ID="10000015">
+    <Name>Sunshine's Page, A-Side</Name>
+    <TextId>-1</TextId>
+    <BookIcon />
+    <EquipEffect>
+      <HpReduction>0</HpReduction>
+      <HP>113</HP>
+      <DeadLine>0</DeadLine>
+      <Break>65</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>8</Speed>
+      <SpeedDiceNum>0</SpeedDiceNum>
+      <SResist>Endure</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Normal</PBResist>
+      <HBResist>Endure</HBResist>
+      <MaxPlayPoint>4</MaxPlayPoint>
+      <StartPlayPoint>4</StartPlayPoint>
+      <AddedStartDraw>0</AddedStartDraw>
+      <Passive>8</Passive>
+      <Passive Pid="@origin">240001</Passive>
+      <Passive Pid="@origin">250336</Passive>
+      <Passive Pid="@origin">240027</Passive>
+      <Passive Pid="@origin">240127</Passive>
+      <Passive Pid="@origin">240227</Passive>
+      <Passive Pid="@origin">250018</Passive>
+    </EquipEffect>
+    <Rarity>Unique</Rarity>
+    <CharacterSkin>FireSunny</CharacterSkin>
+    <CharacterSkinType>Custom</CharacterSkinType>
+    <SkinGender>N</SkinGender>
+    <Chapter>6</Chapter>
+    <Episode>-1</Episode>
+    <RangeType>Melee</RangeType>
+    <NotEquip>false</NotEquip>
+    <RandomFace>false</RandomFace>
+    <SpeedDiceNum>1</SpeedDiceNum>
+    <SuccessionPossibleNumber>9</SuccessionPossibleNumber>
+    <SoundInfo Motion="H" WinExternal="false" Win="Riu_Hori" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="J" WinExternal="false" Win="Riu_Vert" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="Z" WinExternal="false" Win="Riu_Stab" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="G" WinExternal="false" Win="Riu_Guard" LoseExternal="false" Lose="Defense_Guard" />
+    <SoundInfo Motion="E" WinExternal="false" Win="Roland_Evasion" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="F" WinExternal="false" Win="Riu_Stab" LoseExternal="false" Lose="" />
+  </Book>
+  <Book ID="10000016">
+    <Name>Sunshine's Page, B-Side</Name>
+    <TextId>-1</TextId>
+    <BookIcon />
+    <EquipEffect>
+      <HpReduction>0</HpReduction>
+      <HP>99</HP>
+      <DeadLine>0</DeadLine>
+      <Break>110</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>8</Speed>
+      <SpeedDiceNum>0</SpeedDiceNum>
+      <SResist>Endure</SResist>
+      <PResist>Endure</PResist>
+      <HResist>Resist</HResist>
+      <SBResist>Vulnerable</SBResist>
+      <PBResist>Vulnerable</PBResist>
+      <HBResist>Vulnerable</HBResist>
+      <MaxPlayPoint>4</MaxPlayPoint>
+      <StartPlayPoint>4</StartPlayPoint>
+      <AddedStartDraw>0</AddedStartDraw>
+      <Passive>8</Passive>
+      <Passive Pid="@origin">240001</Passive>
+      <Passive Pid="@origin">250336</Passive>
+      <Passive Pid="@origin">240027</Passive>
+      <Passive Pid="@origin">240127</Passive>
+      <Passive Pid="@origin">240227</Passive>
+      <Passive Pid="@origin">250021</Passive>
+    </EquipEffect>
+    <Rarity>Unique</Rarity>
+    <CharacterSkin>AlsoSunshine</CharacterSkin>
+    <CharacterSkinType>Custom</CharacterSkinType>
+    <SkinGender>N</SkinGender>
+    <Chapter>6</Chapter>
+    <Episode>-1</Episode>
+    <RangeType>Melee</RangeType>
+    <NotEquip>false</NotEquip>
+    <RandomFace>false</RandomFace>
+    <SpeedDiceNum>1</SpeedDiceNum>
+    <SuccessionPossibleNumber>9</SuccessionPossibleNumber>
+    <SoundInfo Motion="H" WinExternal="false" Win="Gaze_Alloc_Hori" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="J" WinExternal="false" Win="Gaze_Alloc_Vert" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="Z" WinExternal="false" Win="Gaze_Alloc_Stab" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="G" WinExternal="false" Win="Purple_Guard" LoseExternal="false" Lose="Defense_Guard" />
+    <SoundInfo Motion="E" WinExternal="false" Win="Roland_Evasion" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="F" WinExternal="false" Win="Gaze_Alloc_Stab" LoseExternal="false" Lose="" />
+  </Book>
+  <Book ID="10000017">
+    <Name>Pastor Sheppard's Page</Name>
+    <TextId>-1</TextId>
+    <BookIcon />
+    <EquipEffect>
+      <HpReduction>0</HpReduction>
+      <HP>166</HP>
+      <DeadLine>0</DeadLine>
+      <Break>50</Break>
+      <SpeedMin>2</SpeedMin>
+      <Speed>7</Speed>
+      <SpeedDiceNum>0</SpeedDiceNum>
+      <SResist>Vulnerable</SResist>
+      <PResist>Vulnerable</PResist>
+      <HResist>Vulnerable</HResist>
+      <SBResist>Endure</SBResist>
+      <PBResist>Normal</PBResist>
+      <HBResist>Endure</HBResist>
+      <MaxPlayPoint>1</MaxPlayPoint>
+      <StartPlayPoint>1</StartPlayPoint>
+      <AddedStartDraw>0</AddedStartDraw>
+      <Passive>8</Passive>
+      <Passive>9</Passive>
+      <Passive Pid="@origin">256001</Passive>
+    </EquipEffect>
+    <Rarity>Unique</Rarity>
+    <CharacterSkin>False Sheppard</CharacterSkin>
+    <CharacterSkinType>Custom</CharacterSkinType>
+    <SkinGender>N</SkinGender>
+    <Chapter>6</Chapter>
+    <Episode>-1</Episode>
+    <RangeType>Hybrid</RangeType>
+    <NotEquip>false</NotEquip>
+    <RandomFace>false</RandomFace>
+    <SpeedDiceNum>1</SpeedDiceNum>
+    <SuccessionPossibleNumber>9</SuccessionPossibleNumber>
+    <SoundInfo Motion="H" WinExternal="false" Win="Claw_UpAtk" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="J" WinExternal="false" Win="Claw_DownAtk" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="Z" WinExternal="false" Win="Claw_Stab" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="G" WinExternal="false" Win="Claw_Teleport" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="E" WinExternal="false" Win="Claw_Teleport" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="F" WinExternal="false" Win="Blue_Argalria_Far_Atk2" LoseExternal="false" Lose="" />
+  </Book>
+  <Book ID="10000018">
+    <Name>A Marble Corps Fixer's Page</Name>
+    <TextId>-1</TextId>
+    <BookIcon />
+    <EquipEffect>
+      <HpReduction>0</HpReduction>
+      <HP>100</HP>
+      <DeadLine>0</DeadLine>
+      <Break>53</Break>
+      <SpeedMin>3</SpeedMin>
+      <Speed>6</Speed>
+      <SpeedDiceNum>0</SpeedDiceNum>
+      <SResist>Normal</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Normal</PBResist>
+      <HBResist>Normal</HBResist>
+      <MaxPlayPoint>4</MaxPlayPoint>
+      <StartPlayPoint>4</StartPlayPoint>
+      <AddedStartDraw>0</AddedStartDraw>
+      <Passive>8</Passive>
+      <Passive Pid="@origin">240001</Passive>
+      <Passive Pid="@origin">250222</Passive>
+      <Passive Pid="@origin">240002</Passive>
+      <Passive Pid="@origin">234001</Passive>
+      <Passive Pid="@origin">234002</Passive>
+    </EquipEffect>
+    <Rarity>Rare</Rarity>
+    <CharacterSkin>Discarder</CharacterSkin>
+    <CharacterSkinType>Custom</CharacterSkinType>
+    <SkinGender>N</SkinGender>
+    <Chapter>6</Chapter>
+    <Episode>-1</Episode>
+    <RangeType>Hybrid</RangeType>
+    <NotEquip>false</NotEquip>
+    <RandomFace>false</RandomFace>
+    <SpeedDiceNum>1</SpeedDiceNum>
+    <SuccessionPossibleNumber>9</SuccessionPossibleNumber>
+    <SoundInfo Motion="H" WinExternal="false" Win="Wedge_Hori" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="J" WinExternal="false" Win="Wedge_Vert" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="Z" WinExternal="false" Win="Wedge_Stab" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="G" WinExternal="false" Win="Purple_Guard" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="E" WinExternal="false" Win="Defense_Evasion" LoseExternal="false" Lose="" />
+    <SoundInfo Motion="F" WinExternal="false" Win="Thumb_Kalo_Gun" LoseExternal="false" Lose="" />
+  </Book>
+  <Book ID="10000019">
+    <Name>Reference Sheet of a Discarder</Name>
+    <TextId>-1</TextId>
+    <BookIcon />
+    <EquipEffect>
+      <HpReduction>0</HpReduction>
+      <HP>1</HP>
+      <DeadLine>0</DeadLine>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>1</Speed>
+      <SpeedDiceNum>0</SpeedDiceNum>
+      <SResist>Weak</SResist>
+      <PResist>Weak</PResist>
+      <HResist>Weak</HResist>
+      <SBResist>Weak</SBResist>
+      <PBResist>Weak</PBResist>
+      <HBResist>Weak</HBResist>
+      <MaxPlayPoint>0</MaxPlayPoint>
+      <StartPlayPoint>0</StartPlayPoint>
+      <AddedStartDraw>0</AddedStartDraw>
+      <Passive Pid="@origin">220006</Passive>
+      <Passive Pid="@origin">220005</Passive>
+      <Passive Pid="@origin">220007</Passive>
+      <Passive Pid="@origin">234001</Passive>
+      <Passive Pid="@origin">234002</Passive>
+    </EquipEffect>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>Discarder</CharacterSkin>
+    <CharacterSkinType>Custom</CharacterSkinType>
+    <SkinGender>N</SkinGender>
+    <Chapter>6</Chapter>
+    <Episode>-1</Episode>
+    <RangeType>Hybrid</RangeType>
+    <NotEquip>false</NotEquip>
+    <RandomFace>false</RandomFace>
+    <SpeedDiceNum>1</SpeedDiceNum>
+    <SuccessionPossibleNumber>9</SuccessionPossibleNumber>
+  </Book>
+  <Book ID="10000020">
+    <Name>Reference Sheet of a Super Cool Person!</Name>
+    <TextId>-1</TextId>
+    <BookIcon />
+    <EquipEffect>
+      <HpReduction>0</HpReduction>
+      <HP>1</HP>
+      <DeadLine>0</DeadLine>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>1</Speed>
+      <SpeedDiceNum>0</SpeedDiceNum>
+      <SResist>Weak</SResist>
+      <PResist>Weak</PResist>
+      <HResist>Weak</HResist>
+      <SBResist>Weak</SBResist>
+      <PBResist>Weak</PBResist>
+      <HBResist>Weak</HBResist>
+      <MaxPlayPoint>0</MaxPlayPoint>
+      <StartPlayPoint>0</StartPlayPoint>
+      <AddedStartDraw>0</AddedStartDraw>
+      <Passive Pid="@origin">230207</Passive>
+      <Passive Pid="@origin">240027</Passive>
+      <Passive Pid="@origin">240127</Passive>
+      <Passive Pid="@origin">240227</Passive>
+      <Passive Pid="@origin">250018</Passive>
+      <Passive Pid="@origin">250020</Passive>
+      <Passive Pid="@origin">250021</Passive>
+      <Passive Pid="@origin">260006</Passive>
+    </EquipEffect>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>FireSunny</CharacterSkin>
+    <CharacterSkinType>Custom</CharacterSkinType>
+    <SkinGender>N</SkinGender>
+    <Chapter>6</Chapter>
+    <Episode>-1</Episode>
+    <RangeType>Hybrid</RangeType>
+    <NotEquip>false</NotEquip>
+    <RandomFace>false</RandomFace>
+    <SpeedDiceNum>1</SpeedDiceNum>
+    <SuccessionPossibleNumber>9</SuccessionPossibleNumber>
+  </Book>
+</BookXmlRoot>

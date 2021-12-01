@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Version>1.1</Version>
+  <Character ID="1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="0">Not gonna lie, you look like pushovers.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="0">Winner winner, chicken dinner.</BattleDialog>
+      <BattleDialog ID="1">That was easy.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="0">Gah-!</BattleDialog>
+      <BattleDialog ID="1">Shit-!</BattleDialog>
+      <BattleDialog ID="2">Im- Impossible...</BattleDialog>
+      <BattleDialog ID="3">A-Again...?!</BattleDialog>
+      <BattleDialog ID="4">Sh-Shauna... I'm sorry...</BattleDialog>
+      <BattleDialog ID="5">S-Saville... I miss you... please, h-help me...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="0">Now, how'd you let that happen, hm?</BattleDialog>
+      <BattleDialog ID="1">F.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="0">Actions speak louder than words, you know. And you were awfully quiet.</BattleDialog>
+      <BattleDialog ID="1">Too easy!</BattleDialog>
+      <BattleDialog ID="2">Too slow!</BattleDialog>
+      <BattleDialog ID="3">You're off your game. Or were you ever on it in the first place?</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="0">Won't you help me out. Kelsey~? One last time, for old time's sake~?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="0">TONIGHT, WE DINE IN HELL!</BattleDialog>
+      <BattleDialog ID="1">AAAAAHAHAHAHAHAHA!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="0">Gah, how-?!</BattleDialog>
+      <BattleDialog ID="1">No, impossible...!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="0">Pitiful...</BattleDialog>
+      <BattleDialog ID="1">Unfortunate...</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="0">Yes, yes! YES, MORE! MORE BLOODSHED!</BattleDialog>
+      <BattleDialog ID="1">I want more, I WANT MORE, I NEED MORE!</BattleDialog>
+      <BattleDialog ID="2">YES, YES! RIP AND TEAR!</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="3">
+    <Type ID="START_BATTLE" />
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH" />
+    <Type ID="COLLEAGUE_DEATH" />
+    <Type ID="KILLS_OPPONENT" />
+  </Character>
+  <Character ID="4">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="0">Don't patronize me, Nicholas.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="0">Hmph. Can I leave now?</BattleDialog>
+      <BattleDialog ID="1">Shut up, Nick.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="0">Gah, wait-!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="0">If only you assholes could have died faster!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="0">Hmph.</BattleDialog>
+      <BattleDialog ID="1">Clumsy.</BattleDialog>
+      <BattleDialog ID="2">I saw right through you.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="5">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="0">We ready, boys? Then let's rock!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="0">Winner winner, chicken dinner!</BattleDialog>
+      <BattleDialog ID="1">Woot!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="0">FUCK-</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="0">F.</BattleDialog>
+      <BattleDialog ID="1">F.</BattleDialog>
+      <BattleDialog ID="2">F.</BattleDialog>
+      <BattleDialog ID="3">L.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="0">gg ez.</BattleDialog>
+      <BattleDialog ID="1">gottem lmao.</BattleDialog>
+      <BattleDialog ID="2">get smoked.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="6">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="0">Ready!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="0">lmaooooooooo</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="0">Shit, they got me-</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="0">F.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="0">gg</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="7">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="0">We've got this under control.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="0">Phew.</BattleDialog>
+      <BattleDialog ID="1">That was pretty close... Or maybe it wasn't, I don't know.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="0">Gah...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="0">...</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="0">You were too slow.</BattleDialog>
+      <BattleDialog ID="1">You didn't hit hard enough.</BattleDialog>
+      <BattleDialog ID="2">Your aim was off.</BattleDialog>
+      <BattleDialog ID="3">Not enough ferocity.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="8">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="0">Ready!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="0">lmaooooooooo</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="0">Shit, they got me-</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="0">F.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="0">gg</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="9">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="0">...</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="0">...</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="0">...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="0">...</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="0">...</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="10">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="0">Battle positions.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="0">...</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="0">...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="0">You did well. Rest, now.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="0">Lay down your troubled mind.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="11">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="0">...</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="0">...</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="0">...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="0">...</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="0">...</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="12">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="0">Battle positions.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="0">...</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="0">...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="0">Rest, now.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="0">Rest, now.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="13">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="0">Battle positions.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="0">...</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="0">...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="0">Rest.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="0">You may rest, now. Fear not.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="14">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="0">How unusual~ You aren't running for your lives~?</BattleDialog>
+      <BattleDialog ID="1">Do you truly intend to fight me~?</BattleDialog>
+      <BattleDialog ID="2">Very well~ Death for you it is~!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="0">Now that that's over~</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="0">Interesting... I've been bested...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="0">Weakling.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="0">Trivial~</BattleDialog>
+      <BattleDialog ID="1">Hardly worth the effort~</BattleDialog>
+      <BattleDialog ID="2">Yawwwwwn~</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="15">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="0">Hmmm~ I wonder what sounds we'll make together~</BattleDialog>
+      <BattleDialog ID="1">Come on, don't be shy~</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="0">Hmmm~</BattleDialog>
+      <BattleDialog ID="1">And that's a wrap~</BattleDialog>
+      <BattleDialog ID="2">What a finale! Encore, encore~!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="0">Ghh... This- This isn't the last you'll see of me.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="0">...</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="0">What a wonderful sound~</BattleDialog>
+      <BattleDialog ID="1">Simply beautiful...~</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="16">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="0">I'm not so sure about this...</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="0">We... Lived? Huh...</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="0">Ack...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="0">...</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="0">Hmph. Still got it.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="17">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="0">...</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="0">...</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="0">...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="0">...</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="0">...</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="18">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="0">Hi hi hi!</BattleDialog>
+      <BattleDialog ID="1">Wait, there's two of me? Cool! SUPER cool!</BattleDialog>
+      <BattleDialog ID="2">Prepare for trouble, and make it double!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="0">We did it! High five, other Sunshine!</BattleDialog>
+      <BattleDialog ID="1">Let's gooooo!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="0">Owie-</BattleDialog>
+      <BattleDialog ID="1">OW THAT HURT!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="0">Other Sunshine, no! ... You'll pay for that!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="0">Gotcha!</BattleDialog>
+      <BattleDialog ID="1">Tag, you're it~!</BattleDialog>
+      <BattleDialog ID="2">Man, I am on fire! ... Literally!</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="19">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="0">Hi hi hi!</BattleDialog>
+      <BattleDialog ID="1">Wait, there's two of me? Cool! SUPER cool!</BattleDialog>
+      <BattleDialog ID="2">Prepare for trouble, and make it double!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="0">We did it! High five, other Sunshine!</BattleDialog>
+      <BattleDialog ID="1">Let's gooooo!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="0">Owie-</BattleDialog>
+      <BattleDialog ID="1">OW THAT HURT!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="0">Other Sunshine, no! ... You'll pay for that!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="0">Gotcha!</BattleDialog>
+      <BattleDialog ID="1">Tag, you're it~!</BattleDialog>
+      <BattleDialog ID="2">Man, I am on fire! ... Literally!</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="20">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="0">Even though I walk through the valley of the shadow of death, I fear no evil...</BattleDialog>
+      <BattleDialog ID="1">Thou preparest a table before me in the presence of mine enemies...</BattleDialog>
+      <BattleDialog ID="2">I will declare the decree: the LORD hath said unto me, Thou art my Son; this day have I begotten thee...</BattleDialog>
+      <BattleDialog ID="3">LORD, how are they increased that trouble me! many are they that rise up against me.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="0">He that sitteth in the heavens shall laugh: the Lord shall have them in derision.</BattleDialog>
+      <BattleDialog ID="1">Serve the LORD with fear, and rejoice with trembling.</BattleDialog>
+      <BattleDialog ID="2">I will not be afraid of ten thousands of people, that have set themselves against me round about.</BattleDialog>
+      <BattleDialog ID="3">Arise, O LORD; save me, O my God: for thou hast smitten all mine enemies upon the cheek bone; thou hast broken the teeth of the ungodly.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="0">Let every thing that hath breath praise the LORD... Praise ye the LORD...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH" />
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="0">For the LORD knoweth the way of the righteous: but the way of the ungodly shall perish.</BattleDialog>
+      <BattleDialog ID="1">Let us break their bands asunder, and cast away their cords from us.</BattleDialog>
+      <BattleDialog ID="2">Lest he tear thy soul like a lion, rending it in pieces, while there is none to deliver.</BattleDialog>
+      <BattleDialog ID="3">Arise, O LORD, in thine anger, lift up thyself because of the rage of mine enemies: and awake for me to the judgment that thou hast commanded.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="21">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="0">We've got this in the bag, fellas.</BattleDialog>
+      <BattleDialog ID="1">Buncha shmucks, they look like. This'll be easy.</BattleDialog>
+      <BattleDialog ID="2">Get ready to rock and roll, boys. Let's put on a show!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="0">Woohoo!</BattleDialog>
+      <BattleDialog ID="1">Gottem!</BattleDialog>
+      <BattleDialog ID="2">Eeeeeasyyyyy moneyyyyy!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="0">Shitshitshit-</BattleDialog>
+      <BattleDialog ID="1">Not like this-!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="0">Ah, man. Now we've gotta improvize without him.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="0">Hope you enjoyed the show! Here's your finale!</BattleDialog>
+      <BattleDialog ID="1">And that's a wrap! For you, at least.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

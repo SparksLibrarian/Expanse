@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CardDropTableXmlRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Version>1.1</Version>
+  <DropTable ID="1">
+    <Card>1</Card>
+    <Card>2</Card>
+    <Card>3</Card>
+    <Card>5</Card>
+    <Card>7</Card>
+    <Card>8</Card>
+    <Card>9</Card>
+    <Card>204</Card>
+    <Card>12</Card>
+  </DropTable>
+  <DropTable ID="2">
+    <Card>14</Card>
+    <Card>15</Card>
+    <Card>16</Card>
+    <Card>17</Card>
+    <Card>18</Card>
+    <Card>19</Card>
+    <Card>22</Card>
+    <Card>24</Card>
+    <Card>26</Card>
+    <Card>27</Card>
+    <Card>28</Card>
+    <Card>20</Card>
+  </DropTable>
+  <DropTable ID="3">
+    <Card>14</Card>
+    <Card>15</Card>
+    <Card>16</Card>
+    <Card>17</Card>
+    <Card>18</Card>
+    <Card>19</Card>
+    <Card>24</Card>
+    <Card>26</Card>
+    <Card>20</Card>
+  </DropTable>
+  <DropTable ID="4">
+    <Card>21</Card>
+    <Card>23</Card>
+    <Card>25</Card>
+    <Card>29</Card>
+    <Card>30</Card>
+    <Card>31</Card>
+    <Card>32</Card>
+  </DropTable>
+  <DropTable ID="5">
+    <Card>38</Card>
+    <Card>39</Card>
+    <Card>40</Card>
+    <Card>41</Card>
+    <Card>42</Card>
+    <Card>43</Card>
+    <Card>45</Card>
+    <Card>46</Card>
+    <Card>47</Card>
+  </DropTable>
+  <DropTable ID="6">
+    <Card>36</Card>
+    <Card>37</Card>
+    <Card>38</Card>
+    <Card>40</Card>
+    <Card>41</Card>
+    <Card>42</Card>
+    <Card>43</Card>
+    <Card>47</Card>
+  </DropTable>
+  <DropTable ID="7">
+    <Card>38</Card>
+    <Card>39</Card>
+    <Card>40</Card>
+    <Card>41</Card>
+    <Card>42</Card>
+    <Card>43</Card>
+    <Card>45</Card>
+    <Card>46</Card>
+    <Card>47</Card>
+    <Card>48</Card>
+    <Card>49</Card>
+  </DropTable>
+  <DropTable ID="8">
+    <Card>50</Card>
+    <Card>51</Card>
+    <Card>52</Card>
+    <Card>53</Card>
+    <Card>54</Card>
+  </DropTable>
+  <DropTable ID="9">
+    <Card>50</Card>
+    <Card>52</Card>
+    <Card>66</Card>
+    <Card>67</Card>
+    <Card>68</Card>
+    <Card>69</Card>
+    <Card>70</Card>
+    <Card>71</Card>
+    <Card>72</Card>
+  </DropTable>
+  <DropTable ID="10">
+    <Card>74</Card>
+    <Card>75</Card>
+    <Card>76</Card>
+    <Card>77</Card>
+    <Card>78</Card>
+    <Card>79</Card>
+    <Card>80</Card>
+    <Card>81</Card>
+    <Card>82</Card>
+    <Card>83</Card>
+    <Card>84</Card>
+    <Card>85</Card>
+    <Card>86</Card>
+  </DropTable>
+  <DropTable ID="11">
+    <Card>74</Card>
+    <Card>90</Card>
+    <Card>91</Card>
+    <Card>92</Card>
+  </DropTable>
+  <DropTable ID="12">
+    <Card>94</Card>
+    <Card>95</Card>
+    <Card>96</Card>
+    <Card>97</Card>
+    <Card>98</Card>
+    <Card>99</Card>
+    <Card>100</Card>
+    <Card>101</Card>
+    <Card>102</Card>
+    <Card>103</Card>
+  </DropTable>
+  <DropTable ID="13">
+    <Card>105</Card>
+    <Card>107</Card>
+    <Card>108</Card>
+    <Card>109</Card>
+    <Card>110</Card>
+    <Card>111</Card>
+  </DropTable>
+  <DropTable ID="14">
+    <Card>113</Card>
+    <Card>114</Card>
+    <Card>115</Card>
+    <Card>116</Card>
+    <Card>117</Card>
+    <Card>118</Card>
+    <Card>119</Card>
+    <Card>120</Card>
+    <Card>121</Card>
+  </DropTable>
+</CardDropTableXmlRoot>

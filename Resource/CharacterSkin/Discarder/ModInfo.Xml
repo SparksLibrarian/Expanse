@@ -1,0 +1,55 @@
+<ModInfo>
+  <ClothInfo>
+    <Name>Miser</Name>
+    <Default>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="-27.6" pivot_y="-174.5999" />
+      <Head head_x="-16.09999" head_y="358.8" rotation="0" head_enable="True" />
+    </Default>
+    <Guard>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="-27.6" pivot_y="-181.5" />
+      <Head head_x="4.599998" head_y="363.4" rotation="3.003924" head_enable="True" />
+    </Guard>
+    <Evade>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="-105.8" pivot_y="-190.7" />
+      <Head head_x="9.200043" head_y="347.3" rotation="9.011718" head_enable="True" />
+    </Evade>
+    <Damaged>
+      <Direction>Side</Direction>
+      <Pivot pivot_x="64.39999" pivot_y="-153.8999" />
+      <Head head_x="-36.79999" head_y="354.2" rotation="10.51366" head_enable="True" />
+    </Damaged>
+    <Slash>
+      <Direction>Side</Direction>
+      <Pivot pivot_x="52.89999" pivot_y="-172.3" />
+      <Head head_x="-101.2" head_y="266.7999" rotation="6.007837" head_enable="True" />
+    </Slash>
+    <Penetrate>
+      <Direction>Side</Direction>
+      <Pivot pivot_x="43.70001" pivot_y="-167.7" />
+      <Head head_x="-59.80001" head_y="333.4999" rotation="4.505854" head_enable="True" />
+    </Penetrate>
+    <Hit>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="-13.8" pivot_y="-176.8999" />
+      <Head head_x="-27.6" head_y="361.0999" rotation="9.762705" head_enable="True" />
+    </Hit>
+    <Move>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="-4.6" pivot_y="-176.8999" />
+      <Head head_x="-119.6" head_y="333.4999" rotation="3.003924" head_enable="True" />
+    </Move>
+    <Fire>
+      <Direction>Side</Direction>
+      <Pivot pivot_x="-11.50002" pivot_y="-172.3" />
+      <Head head_x="-50.59998" head_y="393.3" rotation="0" head_enable="True" />
+    </Fire>
+    <Aim>
+      <Direction>Side</Direction>
+      <Pivot pivot_x="-29.9" pivot_y="-174.5999" />
+      <Head head_x="-13.8" head_y="393.2999" rotation="4.505854" head_enable="True" />
+    </Aim>
+  </ClothInfo>
+</ModInfo>
